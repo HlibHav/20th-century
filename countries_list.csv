@@ -1,0 +1,359 @@
+ID,Country
+1,Afghanistan
+2,Albania
+3,Algeria
+4,Andorra
+5,Angola
+6,Antigua and Barbuda
+7,Argentina
+8,Armenia
+9,Australia
+10,Austria
+11,Azerbaijan
+12,Bahamas
+13,Bahrain
+14,Bangladesh
+15,Barbados
+16,Belarus
+17,Belgium
+18,Belize
+19,Benin
+20,Bhutan
+21,Bolivia
+22,Bosnia and Herzegovina
+23,Botswana
+24,Brazil
+25,Brunei
+26,Bulgaria
+27,Burkina Faso
+28,Burundi
+29,Cabo Verde
+30,Cambodia
+31,Cameroon
+32,Canada
+33,Central African Republic
+34,Chad
+35,Chile
+36,China
+37,Colombia
+38,Comoros
+39,Costa Rica
+40,Côte d'Ivoire
+41,Croatia
+42,Cuba
+43,Cyprus
+44,Czechia
+45,Democratic Republic of the Congo
+46,Denmark
+47,Djibouti
+48,Dominica
+49,Dominican Republic
+50,Ecuador
+51,Egypt
+52,El Salvador
+53,Equatorial Guinea
+54,Eritrea
+55,Estonia
+56,Eswatini
+57,Ethiopia
+58,Fiji
+59,Finland
+60,France
+61,Gabon
+62,Gambia
+63,Georgia
+64,Germany
+65,Ghana
+66,Greece
+67,Grenada
+68,Guatemala
+69,Guinea
+70,Guinea-Bissau
+71,Guyana
+72,Haiti
+73,Honduras
+74,Hungary
+75,Iceland
+76,India
+77,Indonesia
+78,Iran
+79,Iraq
+80,Ireland
+81,Israel
+82,Italy
+83,Jamaica
+84,Japan
+85,Jordan
+86,Kazakhstan
+87,Kenya
+88,Kiribati
+89,Kuwait
+90,Kyrgyzstan
+91,Laos
+92,Latvia
+93,Lebanon
+94,Lesotho
+95,Liberia
+96,Libya
+97,Liechtenstein
+98,Lithuania
+99,Luxembourg
+100,Madagascar
+101,Malawi
+102,Malaysia
+103,Maldives
+104,Mali
+105,Malta
+106,Marshall Islands
+107,Mauritania
+108,Mauritius
+109,Mexico
+110,Micronesia
+111,Moldova
+112,Monaco
+113,Mongolia
+114,Montenegro
+115,Morocco
+116,Mozambique
+117,Myanmar
+118,Namibia
+119,Nauru
+120,Nepal
+121,Netherlands
+122,New Zealand
+123,Nicaragua
+124,Niger
+125,Nigeria
+126,North Macedonia
+127,North Korea
+128,Norway
+129,Oman
+130,Pakistan
+131,Palau
+132,Palestine
+133,Panama
+134,Papua New Guinea
+135,Paraguay
+136,Peru
+137,Philippines
+138,Poland
+139,Portugal
+140,Qatar
+141,Republic of the Congo
+142,Romania
+143,Russia
+144,Rwanda
+145,Saint Kitts and Nevis
+146,Saint Lucia
+147,Saint Vincent and the Grenadines
+148,Samoa
+149,San Marino
+150,São Tomé and Príncipe
+151,Saudi Arabia
+152,Senegal
+153,Serbia
+154,Seychelles
+155,Sierra Leone
+156,Singapore
+157,Slovakia
+158,Slovenia
+159,Solomon Islands
+160,Somalia
+161,South Africa
+162,South Korea
+163,South Sudan
+164,Spain
+165,Sri Lanka
+166,Sudan
+167,Suriname
+168,Sweden
+169,Switzerland
+170,Syria
+171,Tajikistan
+172,Tanzania
+173,Thailand
+174,Timor Leste
+175,Togo
+176,Tonga
+177,Trinidad and Tobago
+178,Tunisia
+179,Türkiye
+180,Turkmenistan
+181,Tuvalu
+182,Uganda
+183,Ukraine
+184,United Arab Emirates
+185,United Kingdom
+186,United States
+187,Uruguay
+188,Uzbekistan
+189,Vanuatu
+190,Vatican City
+191,Venezuela
+192,Vietnam
+193,Yemen
+194,Zambia
+195,Zimbabwe
+196,sovereign states
+197,Abkhazia
+198,Artsakh
+199,Akrotiri
+200,Åland Islands
+201,American Samoa
+202,Anguilla
+203,Aruba
+204,Ascension Island
+205,Ashmore and Cartier Islands
+206,Bajo Nuveo Bank
+207,Baker Island
+208,Bermuda
+209,Bouvet Island
+210,British Indian Ocean Territory
+211,British Virgin Islands
+212,Canary Islands
+213,Cayman Islands
+214,Ceuta
+215,Chatham Islands
+216,Chilean Antarctic Territory
+217,Christmas Island
+218,Clipperton Island
+219,Cocos (Keeling) Islands
+220,Cook Islands
+221,Coral Sea Islands
+222,Corsica
+223,Crimea
+224,Curaçao
+225,Dagestan
+226,Dhekelia
+227,Donetsk
+228,Ducie Island
+229,Easter Island
+230,Falkland Islands
+231,Faroe Islands
+232,French Guiana
+233,French Polynesia
+234,French Southern and Antarctic Lands
+235,Galápagos Islands
+236,Gilgit-Baltistan
+237,Greenland
+238,Gibraltar
+239,Guadeloupe
+240,Gagauzia
+241,Guam
+242,Guantanamo Bank
+243,Guernsey
+244,Henderson Island
+245,Herm
+246,Heard Island and McDonald Islands
+247,Hong Kong
+248,Howland Island
+249,Isle of Man
+250,Jan Mayen
+251,Jarvis Island
+252,Jeju Island
+253,Jersey
+254,Jervis Bay
+255,Jethou
+256,Johnston Atoll
+257,Juan Fernández Islands
+258,Kaliningrad
+259,Karakalpakstan
+260,Kharkiv
+261,Kherson
+262,Kosovo
+263,Kurdistan
+264,Lihou
+265,Luhansk
+266,Macau
+267,Madeira
+268,Marion Island
+269,Martinique
+270,Mayotte
+271,Melilla
+272,Midway Atoll
+273,Montserrat
+274,Mykolaiv
+275,Adygea
+276,New Caledonia
+277,Niue
+278,Norfolk Island
+279,Northern Cyprus
+280,Northern Ireland
+281,Northern Mariana Islands
+282,Northwest Territories
+283,Nunavut
+284,Oecusse
+285,Oeno Island
+286,Order of Malta
+287,Palmyra Atoll
+288,Peñón de Vélez de la Gomera
+289,Pitcairn Island
+290,Prince Edward Island
+291,Puntland
+292,Puerto Rico
+293,Réunion
+294,Ross Dependency
+295,Saba
+296,Saint Barthélemy
+297,Saint Helena
+298,Saint Martin
+299,Saint Pierre and Miquelon
+300,San Andrés and Providencia
+301,Sark
+302,Scotland
+303,Scott Island
+304,Serranilla Bank
+305,Sevastopol
+306,Sint Eustatius
+307,Sint Maarten
+308,Somaliland
+309,South Georgia
+310,South Ossetia
+311,South Orkney Islands
+312,South Sandwich Islands
+313,South Shetland Islands
+314,Svalbard
+315,Swains Island
+316,Taiwan
+317,Tokelau
+318,Transnistria
+319,Tristan da Cunha
+320,Turks and Caicos Islands
+321,United States Virgin Islands
+322,Wake Island
+323,Wales
+324,Wallis and Futuna
+325,Western Sahara
+326,Yukon
+327,Zaporizhzhia
+328,Agaléga
+329,Amsterdam Island
+330,Aves Island
+331,Alderney
+332,Alto Velo Island
+333,Banc du Geyser
+334,Bear Island
+335,Brecqhou
+336,Cargados Carajos Shoals
+337,Carriacou
+338,Crozet Islands
+339,Culebra
+340,Desecheo
+341,Glorioso Islands
+342,Heligoland
+343,Mona
+344,Monito
+345,Petite Martinique
+346,Rodrigues Island
+347,Rotuma
+348,Tromelin Island
+349,Adélie Land
+350,Argentine Antarctica
+351,Australian Antarctic Territory
+352,Balleny Islands
+353,British Antarctic Territory
+354,Marie Byrd Land
+355,Adjara
+356,Altai
+357,Bangsamoro
+358,Bashkortostan

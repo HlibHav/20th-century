@@ -1,0 +1,8 @@
+spacy==3.7.5
+networkx==2.8.8
+matplotlib>=3.6.0
+scipy>=1.10.0
+pandas>=1.5.0
+jupyterlab>=3.6.0
+python-dateutil>=2.8.0
+numpy>=1.21.0
